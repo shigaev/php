@@ -1,0 +1,35 @@
+header {
+  font-family: "PT Sans", sans-serif;
+}
+
+.navbar {
+  box-shadow: 0 1px 5px #0000001f;
+}
+
+.dropdown-menu {
+  background-color: rgb(255, 254, 251);
+  box-shadow: 0 2px 7px #00000011;
+  border-radius: 0;
+  border: none;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(255, 242, 231);
+}
+
+.dropdown-item:active {
+  background-color: rgb(255, 231, 204);
+}
+
+.form-control {
+  border-radius: 100px;
+  border: 1px solid rgb(245, 245, 245);
+}
+
+.btn-outline-success {
+  border-radius: 50px;
+  width: 120px;
+  border: none;
+  background-color: rgb(125, 229, 255);
+  color: #ffffff;
+}
